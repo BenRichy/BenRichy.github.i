@@ -1,7 +1,10 @@
 ---
-title: "BenRichy.github.io"
+title: "Ben Richmond"
+subtitle: "Emissions Consultant and R/Data Science Enthusiast"
 ---
 
-This is a Quarto website.
+Hi! I'm Ben, and I work on the National Atmospheric Emissions Inventory (NAEI) <https://naei.beis.gov.uk>
+
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
