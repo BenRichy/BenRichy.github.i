@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "BenRichy.github.io"
+  title: "Ben Richmond"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      -publications.qmd
 
 format:
   html:
