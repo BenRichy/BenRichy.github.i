@@ -12,20 +12,27 @@
   path: "https://naei.beis.gov.uk/reports/reports?report_id=1112"
   categories: [air-pollution, greenhouse-gas, emissions, naei]
   
+- title: "Case Study for an Emission Inventory in Lima-Callao, Peru"
+  description: |
+    Ricardo case study on developing an integrated emission inventory and spatial system for the megacity of Lima, Peru.
+  date: 2023-06-07
+  path: "https://www.ricardo.com/en/case-studies/building-city-emission-inventories-in-emerging-economies-with-limited-data"
+  categories: [air-pollution, emissions, world-wide]
+  
   
 - title: "Gibraltar City Inventory 2019"
   description: |
     Publication of the 2019 greenhouse gas emission estimates of Gibraltar.
   date: 2022-06-21
   path: "https://www.gibraltar.gov.gi/uploads/environment/GHG%20Inventory/2019-GibraltarCityInventory_Report_FINAL.pdf"
-  categories: [greenhouse-gas, emissions]
+  categories: [greenhouse-gas, emissions, world-wide]
   
 - title: "Gibraltar City Inventory 2018"
   description: |
     Publication of the 2018 greenhouse gas emission estimates of Gibraltar.
   date: 2021-06-16
   path: "https://www.gibraltar.gov.gi/uploads/environment/GHG%20Inventory/2018-GibraltarCityInventory_Report_Final.pdf"
-  categories: [greenhouse-gas, emissions]
+  categories: [greenhouse-gas, emissions, world-wide]
   
 
   
