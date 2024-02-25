@@ -1,14 +1,14 @@
 ---
 title: "Publications"
 listing:
-  - id: air-quality
+  - id: uk-air-quality
     type: default
     contents: Portfolio/UK_AQ_Publications.yaml
     sort-ui: true
     sort: [date desc]
     categories: true
     date-format: "DD-MM-YYYY"
-  - id: greenhouse-gas
+  - id: uk-greenhouse-gas
     type: default
     contents: Portfolio/UK_GHG_Publications.yaml
     sort-ui: true
@@ -31,6 +31,49 @@ listing:
     date-format: "DD-MM-YYYY"
 ---
 
-NAEI Publications
+In the tabs below are a collection of the reports/papers I have been involved with in my professional career.
 
+:::: {.panel-tabset}
+
+## UK Air Quality Publications
+
+:::{.callout-note appearance="minimal"}
+This is a list of publications that are related to UK emissions of Air Pollutants, 
+e.g. NO~X~, PM~2.5~ that I have been involved in, either as lead author, or as a main contributor.
+:::
+
+:::{#uk-air-quality}
+:::
+
+## UK Greenhouse Gas Publications
+
+:::{.callout-note appearance="minimal"}
+This is a list of publications that are related to UK emissions of Greenhouse Gases, 
+e.g. CO~2~, CH~4~, N~2~O that I have been involved in, either as lead author, or as a main contributor.
+:::
+
+:::{#uk-greenhouse-gas}
+:::
+
+## Research
+
+:::{.callout-note appearance="minimal"}
+Below is a list of academic papers/research that I have contributed to.
+:::
+
+:::{#research-papers}
+:::
+
+
+## Other
+
+:::{.callout-note appearance="minimal"}
+Below is a collection of reports relating to projects that are neither UK, or research related.
+:::
+
+:::{#other}
+:::
+
+
+::::
 
