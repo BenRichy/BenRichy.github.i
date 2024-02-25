@@ -11,7 +11,7 @@ In particular, I help calculate emissions of Nitrogen Oxides (NO~X~), Particulat
 
 Additionally, I help produce projections of emissions of the above pollutants through to 2040.
 
-The NAEI also estimates the emissions of UK Greenhouse Gas emissions (including Carbon Dioxide (CO~2~), Methane (CH~4~), and Nitrous Oxide (N~2~0)) from 1990 onwards and reports these to the UNFCCC.
+The NAEI also estimates the emissions of UK Greenhouse Gas emissions (including Carbon Dioxide (CO~2~), Methane (CH~4~), and Nitrous Oxide (N~2~O)) from 1990 onwards and reports these to the UNFCCC.
 
 
 
