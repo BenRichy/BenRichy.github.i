@@ -13,6 +13,14 @@ Additionally, I help produce projections of emissions of the above pollutants th
 
 The NAEI also estimates the emissions of UK Greenhouse Gas emissions (including Carbon Dioxide (CO~2~), Methane (CH~4~), and Nitrous Oxide (N~2~O)) from 1990 onwards and reports these to the UNFCCC.
 
+Outside of working on the NAEI, my expertise also includes:
+
+* Upgrading legacy systems from Excel/Access, and developing new systems into R/SQL 
+* CLRTAP Lead Reviewer for the Stage 3 Review of Parties on behalf of [CEIP](https://www.ceip.at/status-of-reporting-and-review-results/2023-submission)
+* Estimates of NMVOC emissions from the solvents sector
+* Estimating annual emissions for the UK's Devolved Administrations
+
+
 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

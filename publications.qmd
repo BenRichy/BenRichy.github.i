@@ -1,6 +1,17 @@
 ---
 title: "Publications"
 listing:
+  - id: all
+    type: default
+    contents: 
+    - Portfolio/UK_AQ_Publications.yaml
+    - Portfolio/UK_GHG_Publications.yaml
+    - Portfolio/Research_Publications.yaml
+    - Portfolio/Other_Publications.yaml
+    sort-ui: true
+    sort: [date desc]
+    categories: true
+    date-format: "DD-MM-YYYY"
   - id: uk-air-quality
     type: default
     contents: Portfolio/UK_AQ_Publications.yaml
@@ -33,7 +44,18 @@ listing:
 
 In the tabs below are a collection of the reports/papers I have been involved with in my professional career.
 
+
+
 :::: {.panel-tabset}
+
+## All Publications
+
+:::{.callout-note appearance="minimal"}
+This is a list of all of the publications that I have been involved in, either as lead author, or as a main contributor.
+:::
+
+:::{#all}
+:::
 
 ## UK Air Quality Publications
 
