@@ -2,14 +2,16 @@
 title: "Ben Richmond"
 subtitle: "Emissions Consultant and R/Data Science Enthusiast"
 date-modified: now
-date-format: "D MMMM, YYYY; HH:MM"
+date-format: "D MMMM, YYYY; HH:mm"
 ---
 
 Hi! I'm Ben, and I work on the [UK's National Atmospheric Emissions Inventory (NAEI)](https://naei.beis.gov.uk). I'm the current Air Quality Lead, and work with the wider team to estimate emissions of over 60 pollutants from 1990 onwards.
 
-In particular, we calculate emissions of Nitrogen Oxides (NOx), Particulate Matter < 2.5 um (PM2.5), Ammonia (NH3), Non-Methane Volatile Organic Compounds (NMVOCs) and Sulphur Dioxide (SO2) and ascertain the UK's compliance against NECR Emission Reduction Commitments.
+In particular, I help calculate emissions of Nitrogen Oxides (NO~X~), Particulate Matter < 2.5 um (PM~2.5~), Ammonia (NH~3~), Non-Methane Volatile Organic Compounds (NMVOCs) and Sulphur Dioxide (SO~2~) and ascertain the UK's compliance against NECR Emission Reduction Commitments.
 
-Additionally, we produce projections of emissions of the above pollutants through to 2040.
+Additionally, I help produce projections of emissions of the above pollutants through to 2040.
+
+The NAEI also estimates the emissions of UK Greenhouse Gas emissions (including Carbon Dioxide (CO~2~), Methane (CH~4~), and Nitrous Oxide (N~2~0)) from 1990 onwards and reports these to the UNFCCC.
 
 
 
