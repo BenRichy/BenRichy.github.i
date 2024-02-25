@@ -1,7 +1,7 @@
 ---
 title: "Ben Richmond"
 subtitle: "Emissions Consultant and R/Data Science Enthusiast"
-date-modified: 2024-02-25
+date-modified: "`r format(Sys.time(), '%d %B, %Y %H:%m')`"
 ---
 
 Hi! I'm Ben, and I work on the [UK's National Atmospheric Emissions Inventory (NAEI)](https://naei.beis.gov.uk). I'm the current Air Quality Lead, and work with the wider team to estimate emissions of over 60 pollutants from 1990 onwards.
