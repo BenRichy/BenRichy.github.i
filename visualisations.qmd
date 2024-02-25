@@ -1,0 +1,43 @@
+---
+title: "Visualisations"
+---
+
+
+:::: {.panel-tabset}
+
+## TidyTuesday
+
+:::{.callout-note appearance="minimal"}
+Below are a selection of visualisations that I have created as part of [#TidyTuesday](https://github.com/rfordatascience/tidytuesday).
+To see all of my visualisations, head over to my [repo](https://github.com/BenRichy/TidyTuesday)
+:::
+
+### Deforestation in the Amazon
+Decided to get a bit more creative and make this one into a gif, took far too long to try and work out how to mock up a stacked bar inside of a country outline!
+<br>
+Largest causes of deforestation in the Brazilian Amazon 2001 - 2013 [(View Code)](https://github.com/BenRichy/TidyTuesday/blob/main/Rcode/2021_04_06_GlobalDeforestation.R)
+
+![](plots/2021_04_06_GlobalDeforestation.gif)
+
+
+### USA Baby Names
+
+Most Popular Female Baby Names in the USA, 2017 [(View Code)](https://github.com/BenRichy/TidyTuesday/blob/main/Rcode/2022_03_22_BabyNames.R)
+
+![](plots/2022_03_22_BabyNames.png)
+
+
+### College sports in the USA
+
+US College Sport Expenditure per Participant [(View Code)](https://github.com/BenRichy/TidyTuesday/blob/main/Rcode/2022_03_29_CollegeSports.R)
+
+![](plots/2022_03_29_CollegeSports.png)
+
+
+## Emissions Visualisations
+
+:::{.callout-note appearance="minimal"}
+Work In Progress - Plots will be added soon.
+:::
+
+::::

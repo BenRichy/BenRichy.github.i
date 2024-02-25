@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - publications.qmd
-
+      - visualisations.qmd
 format:
   html:
     theme: cosmo
