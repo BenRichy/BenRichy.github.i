@@ -1,5 +1,12 @@
 ---
 title: "Publications"
+listing:
+    type: default
+    contents: Portfolio/UK_AQ_Publications.yaml
+    date-format: "DD-MM-YYYY"
+
 ---
 
-My Publications
+NAEI Publications
+
+
