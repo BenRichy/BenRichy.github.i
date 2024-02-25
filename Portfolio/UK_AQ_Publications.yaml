@@ -1,8 +1,6 @@
 - title: "1990-2021 UK Air Quality Emissions (Including projections to 2040) Informative Inventory Report"
   description: |
-  2023 Publication of the UK's Informative Inventory Report to th UNECE
-  author:
-  - Ben Richmond
+    t2023 Publication of the UK's Informative Inventory Report to th UNECE
   date: 2023-03-15
   categories: [air-pollution, emissions, iir]
   path: "https://naei.beis.gov.uk/reports/reports?report_id=1109"
@@ -10,9 +8,7 @@
   
 - title: "1990-2020 UK Air Quality Emissions Informative Inventory Report"
   description: |
-  2022 Publication of the UK's Informative Inventory Report to th UNECE
-  author:
-  - Ben Richmond
+    t2022 Publication of the UK's Informative Inventory Report to th UNECE
   date: 2022-03-15
   categories: [air-pollution, emissions, iir]
   path: "https://naei.beis.gov.uk/reports/reports?report_id=1071"

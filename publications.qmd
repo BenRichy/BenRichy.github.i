@@ -4,7 +4,6 @@ listing:
     type: default
     contents: Portfolio/UK_AQ_Publications.yaml
     date-format: "DD-MM-YYYY"
-
 ---
 
 NAEI Publications
