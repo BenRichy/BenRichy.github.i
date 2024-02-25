@@ -1,8 +1,34 @@
 ---
 title: "Publications"
 listing:
+  - id: air-quality
     type: default
     contents: Portfolio/UK_AQ_Publications.yaml
+    sort-ui: true
+    sort: [date desc]
+    categories: true
+    date-format: "DD-MM-YYYY"
+  - id: greenhouse-gas
+    type: default
+    contents: Portfolio/UK_GHG_Publications.yaml
+    sort-ui: true
+    sort: [date desc]
+    categories: true
+    date-format: "DD-MM-YYYY"
+  - id: research-papers
+    type: default
+    contents: Portfolio/Research_Publications.yaml
+    sort-ui: true
+    sort: [date desc]
+    categories: true
+    date-format: "DD-MM-YYYY"
+  - id: other
+    type: default
+    contents: Portfolio/Other_Publications.yaml
+    sort-ui: true
+    sort: [date desc]
+    categories: true
+    date-format: "DD-MM-YYYY"
 ---
 
 NAEI Publications

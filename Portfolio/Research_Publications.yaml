@@ -1,0 +1,31 @@
+- title: "UK Emissions from Upstream Oil and Gas"
+  description: |
+    Report detailing the upgrade to the UK's Offshore Platform and Terminal Inventory System (OPTIS)
+  date: 2023-07-07
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1115"
+  categories: [air-pollution, greenhouse-gas, emissions, naei, research]
+  
+
+- title: "Air Quality Expert Group - Indoor Air Quality"
+  description: |
+    Air Quality Expert Group (AQEG) report on emissions arising from indoor sources
+  date: 2022-11-01
+  path: "https://uk-air.defra.gov.uk/assets/documents/reports/cat09/2211011000_15062022_Indoor_Air_Quality_Report_Final.pdf"
+  categories: [air-pollution, emissions, research, nmvoc]
+  
+  
+- title: "Revising VOC emissions speciation improves global simulations of ethane and propane"
+  description: |
+    Revising VOC emissions speciation improves global simulations of ethane and propane
+  date: 2023-11-08
+  path: "https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2557/"
+  categories: [air-pollution, emissions, research, nmvoc]
+  
+  
+- title: "The impact multi-decadal of changes in VOCs speciation on urban ozone chemistry: A case study in Birmingham, United Kingdom"
+  description: |
+    The impact multi-decadal of changes in VOCs speciation on urban ozone chemistry: A case study in Birmingham, United Kingdom
+  date: 2023-10-19
+  path: "https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2294/"
+  categories: [air-pollution, emissions, research, nmvoc]
+  

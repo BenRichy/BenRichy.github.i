@@ -1,0 +1,65 @@
+- title: "1990-2021 UK Greenhouse Gas Emissions National Inventory Report"
+  description: |
+    2023 Publication of the UK's Informative Inventory Report to the UNFCCC
+  date: 2023-03-15
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1108"
+  categories: [greenhouse-gas, emissions, iir, naei]
+  
+  
+- title: "1990-2020 UK Greenhouse Gas Emissions National Inventory Report"
+  description: |
+    2022 Publication of the UK's Informative Inventory Report to the UNECE
+  date: 2022-03-15
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1072"
+  categories: [greenhouse-gas, emissions, iir, naei]
+  
+- title: "1990-2019 UK Greenhouse Gas Emissions National Inventory Report"
+  description: |
+    Addendum to the 2022 submission
+  date: 2022-07-25
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1015"
+  categories: [greenhouse-gas, emissions, iir, naei]
+  
+
+- title: "1990-2018 UK Greenhouse Gas Emissions National Inventory Report"
+  description: |
+    2021 Publication of the UK's Informative Inventory Report to the UNECE
+  date: 2021-03-15
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=998"
+  categories: [greenhouse-gas, emissions, iir, naei]
+  
+  
+- title: "1990-2021 Devolved Administration Greenhouse Gas Emissions"
+  description: |
+    2023 publication of emissions of Greenhouse Gas pollutants in England, Scotland,
+    Wales, and Northern Ireland
+  date: 2023-06-20
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1110"
+  categories: [greenhouse-gas, emissions, devolved-administrations, naei]
+  
+  
+- title: "1990-2020 Devolved Administration Greenhouse Gas Emissions"
+  description: |
+    2022 publication of emissions of Greenhouse Gas pollutants in England, Scotland,
+    Wales, and Northern Ireland
+  date: 2022-09-20
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1080"
+  categories: [greenhouse-gas, emissions, devolved-administrations, naei]
+  
+  
+- title: "1990-2019 Devolved Administration Greenhouse Gas Emissions"
+  description: |
+    2021 publication of emissions of Greenhouse Gas pollutants in England, Scotland,
+    Wales, and Northern Ireland
+  date: 2021-06-15
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1019"
+  categories: [greenhouse-gas, emissions, devolved-administrations, naei]
+  
+- title: "1990-2018 Devolved Administration Greenhouse Gas Emissions"
+  description: |
+    2020 publication of emissions of Greenhouse Gas pollutants in England, Scotland,
+    Wales, and Northern Ireland
+  date: 2020-06-16
+  path: "https://naei.beis.gov.uk/reports/reports?report_id=1000"
+  categories: [greenhouse-gas, emissions, devolved-administrations, naei]
+  
